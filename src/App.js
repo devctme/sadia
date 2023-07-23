@@ -1,23 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>Minarul and sadia start relationship date</h2>
+      <div> <span>year <b>2021</b></span> <span>month <b>9</b></span> <span>day <b>12</b></span> </div>
+     
     </div>
   );
 }
